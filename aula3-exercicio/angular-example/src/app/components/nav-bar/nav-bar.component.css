@@ -1,0 +1,26 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(152 184 230);
+  height: 60px;
+}
+
+.nav-item a{
+  color: black;
+}
+
+.nav-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.nav-item:hover{
+  background-color: rgb(126, 163, 224);
+  border-radius: 5px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
