@@ -9,6 +9,12 @@ import MyComponent from './components/MyComponent.vue'
  * -v-else
  * -v-else-if
  * -v-for
+ *
+ * menos importante
+ * -v-show
+ * -v-text
+ * -v-html
+ * -v-once
  */
 
 const model = defineModel();
